@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>189283388772-39tq71hkmgpvbvpmjplbvlb0snta9kf9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189283388772-39tq71hkmgpvbvpmjplbvlb0snta9kf9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSwB3iDnheidMjfZd6B0IUE51vlRlH0yk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189283388772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loginFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-task-acdd5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-task-acdd5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189283388772:ios:64907da9bd97f11aa0be71</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-task-acdd5.firebaseio.com</string>
+</dict>
+</plist>

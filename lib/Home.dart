@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/basic.dart';
-import 'package:flutter/services.dart';
 import 'package:geolocator/geolocator.dart';
 
 class Home extends StatefulWidget {
+  static final String id = "Home";
+
   @override
   _HomeState createState() => _HomeState();
 }
